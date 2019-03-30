@@ -1,3 +1,3 @@
-scalaVersion := "2.11.7"
+scalaVersion := "2.12.8"
 
-libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.35"
+libraryDependencies += "mysql" % "mysql-connector-java" % "8.0.15"

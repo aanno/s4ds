@@ -1,9 +1,9 @@
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.12.8"
 
 libraryDependencies ++= Seq(
-  "org.scalaj" %% "scalaj-http" % "1.1.4",
-  "com.typesafe.akka" %% "akka-actor" % "2.3.12"
+  "org.scalaj" %% "scalaj-http" % "2.4.1",
+  "com.typesafe.akka" %% "akka-actor" % "2.5.21"
 )
 
 scalacOptions ++= Seq("-feature", "-language:postfixOps", "-deprecation")

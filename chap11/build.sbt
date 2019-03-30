@@ -1,4 +1,4 @@
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.12.8"
 
-libraryDependencies += "org.json4s" %% "json4s-native" % "3.2.10"
+libraryDependencies += "org.json4s" %% "json4s-native" % "3.6.5"
