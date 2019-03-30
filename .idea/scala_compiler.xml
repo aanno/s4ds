@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="Scala-for-Data-Science,scala-for-data-science_803" />
+    <profile name="sbt 1" modules="S4DS,Scala-for-Data-Science,chap03,chap04,chap05,chap06,chap07,chap11,chap13,chap14,scala-for-data-science_803,spam_filter,spam_mi" />
+    <profile name="sbt 2" modules="chap08">
+      <option name="postfixOps" value="true" />
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+    </profile>
   </component>
 </project>

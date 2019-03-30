@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/S4DS.iml" filepath="$PROJECT_DIR$/.idea/modules/S4DS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-for-Data-Science.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-for-Data-Science.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-for-Data-Science-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-for-Data-Science-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap03.iml" filepath="$PROJECT_DIR$/.idea/modules/chap03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap04.iml" filepath="$PROJECT_DIR$/.idea/modules/chap04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap05.iml" filepath="$PROJECT_DIR$/.idea/modules/chap05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap06.iml" filepath="$PROJECT_DIR$/.idea/modules/chap06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap07.iml" filepath="$PROJECT_DIR$/.idea/modules/chap07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap08.iml" filepath="$PROJECT_DIR$/.idea/modules/chap08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap11.iml" filepath="$PROJECT_DIR$/.idea/modules/chap11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap13.iml" filepath="$PROJECT_DIR$/.idea/modules/chap13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap14.iml" filepath="$PROJECT_DIR$/.idea/modules/chap14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spam_filter.iml" filepath="$PROJECT_DIR$/.idea/modules/spam_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spam_mi.iml" filepath="$PROJECT_DIR$/.idea/modules/spam_mi.iml" />
     </modules>
   </component>
 </project>
