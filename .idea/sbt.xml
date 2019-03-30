@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/.sdkman/candidates/sbt/current/bin/sbt-launch.jar" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/chap02" />
+            <option value="$PROJECT_DIR$/chap03" />
+            <option value="$PROJECT_DIR$/chap04" />
+            <option value="$PROJECT_DIR$/chap05" />
+            <option value="$PROJECT_DIR$/chap06" />
+            <option value="$PROJECT_DIR$/chap07" />
+            <option value="$PROJECT_DIR$/chap08" />
+            <option value="$PROJECT_DIR$/chap10" />
+            <option value="$PROJECT_DIR$/chap11" />
+            <option value="$PROJECT_DIR$/chap12" />
+            <option value="$PROJECT_DIR$/chap13" />
+            <option value="$PROJECT_DIR$/chap14" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/chap09" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/chap09" />
+            <option value="$PROJECT_DIR$/chap09/all_workers" />
+            <option value="$PROJECT_DIR$/chap09/fetchers_alone" />
+            <option value="$PROJECT_DIR$/chap09/fetchers_routing" />
+            <option value="$PROJECT_DIR$/chap09/ghub_crawler" />
+            <option value="$PROJECT_DIR$/chap09/ghub_crawler_fault_tolerant" />
+            <option value="$PROJECT_DIR$/chap09/hello_akka" />
+            <option value="$PROJECT_DIR$/chap09/hello_akka_case_classes" />
+            <option value="$PROJECT_DIR$/chap09/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="S4DS,Scala-for-Data-Science,chap03,chap04,chap05,chap06,chap07,chap11,chap13,chap14,scala-for-data-science_803,spam_filter,spam_mi" />
-    <profile name="sbt 2" modules="chap08">
+    <profile name="sbt 1" modules="S4DS,Scala-for-Data-Science,chap03,chap04,chap05,chap06,chap07,chap09_1178,chap11,chap13,chap14,fetchers_alone,scala-datascience-akka,scala-for-data-science_803,spam_filter,spam_mi" />
+    <profile name="sbt 2" modules="all_workers-S4DS,chap08,fetchers_routing-S4DS,ghub_crawler-S4DS,ghub_crawler_fault_tolerant-S4DS,hello_akka,hello_akka_case_classes">
       <option name="postfixOps" value="true" />
       <option name="deprecationWarnings" value="true" />
       <option name="featureWarnings" value="true" />

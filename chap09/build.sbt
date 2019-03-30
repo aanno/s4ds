@@ -2,7 +2,8 @@ organization := "com.packt"
 
 name := "scala-datascience-akka"
 
-lazy val root = project.in(file("."))
+// lazy val root = RootProject(file(".."))
+lazy val akkaRoot = project.in(file("."))
   .aggregate(all_workers)
   .aggregate(fetchers_alone)
   .aggregate(fetchers_routing)
